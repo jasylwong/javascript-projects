@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  padding: 5px;
+  text-align: center;
+}
+
+#container {
+  display: inline-block;
+}
+
+#color-indicator {
+  color: white;
+  background-color: black;
+  border-radius: 15px;
+  font-size: 40px;
+  margin: 5px;
+  padding: 10px;
+  width: 100%;
+  text-align: center;
+}
+
+#flip-btn {
+  margin: 5px;
+}

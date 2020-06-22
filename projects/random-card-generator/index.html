@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Random card</title>
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+  <h1>Random cards generator</h1>
+  
+  <div id='hand'>
+    <img id="card1" src="cards/blue_back.png" height="200px">
+    <img id="card2" src="cards/red_back.png" height="200px" hidden>
+    <img id="card3" src="cards/yellow_back.png" height="200px" hidden>
+    <img id="card4" src="cards/green_back.png" height="200px" hidden>
+    <img id="card5" src="cards/purple_back.png" height="200px" hidden>
+  </div>
+  <br />
+  <br />
+  <button id="button">Generate random card(s)</button>
+  <br />
+  <br />
+  <div>No. of cards (max 5):</div>
+  <div id="numberOfCardsDisplay">1</div>
+  <button id="fewerCards">-</button>
+  <button id="moreCards">+</button>
+  
+  <script src='app.js'></script>
+</body>
+</html>
