@@ -15,11 +15,7 @@ dec_btn.onclick = () => {
 
 inc_btn.onclick = () => {
   counter++
-  if (counter > 0) {
-    display.classList.toggle('positive')
-  } else if (counter === 0) {
-    display.classList.toggle('zero')
-  }
+  color_change()
   display.innerHTML = counter.toString()
 }
 
