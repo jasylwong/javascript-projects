@@ -27,7 +27,7 @@ reset.onclick = () => {
   counter = 0
   display.innerHTML = '0'
   color_change()
-} 
+}
 
 const color_change = () => {
   display.removeAttribute('class')
