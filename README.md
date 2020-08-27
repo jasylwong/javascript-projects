@@ -11,3 +11,4 @@ WIP
 | [Colour flipper](https://jasylwong.github.io/javascript-projects/projects/colour-flipper/index.html) | TBC
 | [Connect Four](https://jasylwong.github.io/javascript-projects/projects/connect-four/index.html) | TBC
 | [Memory Game](https://jasylwong.github.io/javascript-projects/projects/memory-game/index.html) | TBC
+| [Random Card Generator](https://jasylwong.github.io/javascript-projects/projects/random-card-generator/index.html) | TBC
